@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="LiuS" />
+  <img src="banner.webp" alt="LiuS" />
 </div>
 
 软件开发，也做 AI 工程。写 AI Coding、Agent 和企业 AI 落地。只记真实踩过的坑。
